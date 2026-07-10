@@ -336,7 +336,7 @@ Centralized error handling using:
 
 **Rohit Kumar**
 
-B.Tech CSE (Cyber Security)
+B.Tech CSE (Full stack web developer)
 
 Interested in:
 - Backend Development
@@ -344,8 +344,4 @@ Interested in:
 - Cyber Security
 - Full Stack Development
 
----
 
-# License
-
-This project is licensed under the MIT License.
